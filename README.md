@@ -1,4 +1,4 @@
-# ![logo](TOKEN/LINE.png) LINE Js-kicker
+# ![logo](src/LINE.png) LINE Js-kicker
 
 Dangerous ⚠ Use it at your own risk !
 
