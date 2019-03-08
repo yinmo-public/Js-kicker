@@ -1,0 +1,35 @@
+{
+  "name": "linealphatjs",
+  "version": "0.2.1",
+  "description": "LineAlphat JS",
+  "main": "./library/main.js",
+  "scripts": {
+    "start": "npm run bot",
+    "bot": "node ./src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alfathdirk/LineAlphatJS.git"
+  },
+  "author": {
+    "name": "alfathdirk",
+    "email": "alfathdirk@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "qrcode-terminal": "^0.11.0",
+    "node-bignumber": "^1.2.1",
+    "utf8": "^3.0.0"
+  },
+  "dependencies": {
+    "mime": "^2.2.0",
+    "bluebird": "^3.3.4",
+    "thrift": "^0.11.0",
+    "thrift-http": "^1.0.1",
+    "unirest": "^0.5.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "webp-converter": "^2.1.6",
+    "moment": "^2.18.1"
+  }
+}
