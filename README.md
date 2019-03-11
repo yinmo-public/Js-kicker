@@ -13,10 +13,11 @@ How to run ?
 ----
 **NOTE**
 - Don't forget to put your mid in main.js 'myBot'
+
 -Example:
 
 - `get myBot() {
-- `    const bot = ['u1cab5ef6299af4713353b9843479952d','u22d94aac4e1659eb6f375ffc7cb17a53'];
+- `    const bot = ['your mid here'];
 - `    return bot;
 - `}
 
