@@ -11,11 +11,8 @@ How to run ?
 - `npm start`
 
 ----
-**NOTE**
+**NOTE & Features** 
 - Don't forget to put your mid in main.js 'myBot'
-
-
-**Features** 
 - Delete unuseful code 
 - Improve logic
 ----
