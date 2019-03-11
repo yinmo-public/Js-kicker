@@ -14,7 +14,7 @@ How to run ?
 **NOTE**
 - Don't forget to put your mid in main.js 'myBot'
 
--Example:
+# Example: #
 
 - `get myBot() {
 - `    const bot = ['your mid here'];
