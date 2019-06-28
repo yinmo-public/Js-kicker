@@ -52,7 +52,7 @@ class Command extends LineAPI {
                 contentType: 13,
                 contentPreview: null,
                 contentMetadata: 
-                { mid: 'u6949f816dddef051b5762322e5597f1e' }
+                { mid: 'u085311ecd9e3e3d74ae4c9f5437cbcb5' }
             }
             Object.assign(this.messages,msg);
             this._sendMessage(this.messages);
