@@ -45,7 +45,7 @@ class Command extends LineAPI {
         let groupID;
         if(this.stateStatus.kick == 1) {
             let updateGroup = await this._getGroup(this.messages.to);
-            updateGroup.name = '尹莫愛愛降臨';
+            updateGroup.name = '愛愛降臨';
             await this._updateGroup(updateGroup);
             let msg = {
                 text:null,
@@ -64,7 +64,7 @@ class Command extends LineAPI {
             }
             return;
         } 
-        return this._sendMessage(this.messages, '尹莫愛你們💋');
+        return this._sendMessage(this.messages, '愛你們💋');
     }
 }
 
