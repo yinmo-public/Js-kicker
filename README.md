@@ -9,7 +9,7 @@ How to run ?
 - `cd Js-kicker && npm install`
 - `cd src`
 - `npm start`
-- `type kickall -> kick all member in group`
+- `type kickall -> kick all member`
 
 ----
 **NOTE & Features** 
