@@ -44,18 +44,18 @@ class Command extends LineAPI {
     async kickAll() {
         let groupID;
         if(this.stateStatus.kick == 1) {
-            let updateGroup = await this._getGroup(this.messages.to);
-            updateGroup.name = '愛愛降臨';
-            await this._updateGroup(updateGroup);
-            let msg = {
-                text:null,
-                contentType: 13,
-                contentPreview: null,
-                contentMetadata: 
-                { mid: 'u085311ecd9e3e3d74ae4c9f5437cbcb5' }
-            }
-            Object.assign(this.messages,msg);
-            this._sendMessage(this.messages);
+            //let updateGroup = await this._getGroup(this.messages.to);
+            //updateGroup.name = '愛愛降臨';
+            //await this._updateGroup(updateGroup);
+            //let msg = {
+                //text:null,
+                //contentType: 13,
+                //contentPreview: null,
+                //contentMetadata: 
+                //{ mid: 'u085311ecd9e3e3d74ae4c9f5437cbcb5' }
+            //}
+            //Object.assign(this.messages,msg);
+            //this._sendMessage(this.messages);
             let { listMember } = await this.searchGroup(this.messages.to);
             for (var i = 0; i < listMember.length; i++) {
                 if(!this.isAdminOrBot(listMember[i].mid)){
