@@ -1,9 +1,10 @@
+## Update 2021
+⚠ DO NOT USE THIS CODE OR YOU WILL GET BAN CHAT
+
 # ![logo](src/LINE.png) LINE Js-kicker
 
 Dangerous ⚠ Use it at your own risk !
 
-## Update 2021
-⚠ DO NOT USE THIS CODE OR YOU WILL GET BAN CHAT
 
 How to run ?
 ------
