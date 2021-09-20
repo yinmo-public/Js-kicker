@@ -3,8 +3,6 @@
 
 # ![logo](src/LINE.png) LINE Js-kicker
 
-Dangerous ⚠ Use it at your own risk !
-
 
 How to run ?
 ------
